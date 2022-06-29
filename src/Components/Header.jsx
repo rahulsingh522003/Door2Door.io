@@ -154,7 +154,7 @@ function Header() {
 
                 <Link to={'/'} className='flex items-center gap-2'>
                     <img src={Logo} className="w-8 object-cover" alt="logo" />
-                    <p className="text-headingColor text-xl font-bold">City</p>
+                    <p className="text-headingColor text-xl font-bold">Door2Door</p>
                 </Link>
 
                 <div className='relative'>
