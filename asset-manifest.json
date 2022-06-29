@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Door2Door.io/static/css/main.6d932737.css",
-    "main.js": "/Door2Door.io/static/js/main.6032ba6e.js",
+    "main.js": "/Door2Door.io/static/js/main.dcbdbe26.js",
     "static/media/c3.png": "/Door2Door.io/static/media/c3.55f83414f33f66456b35.png",
     "static/media/fi1.png": "/Door2Door.io/static/media/fi1.3f43e51b6058550d1f44.png",
     "static/media/chef1.png": "/Door2Door.io/static/media/chef1.705417f3cf231c71d1bd.png",
@@ -14,10 +14,10 @@
     "static/media/emptyCart.svg": "/Door2Door.io/static/media/emptyCart.71ad17e692d71caa77c6c9351f84756b.svg",
     "index.html": "/Door2Door.io/index.html",
     "main.6d932737.css.map": "/Door2Door.io/static/css/main.6d932737.css.map",
-    "main.6032ba6e.js.map": "/Door2Door.io/static/js/main.6032ba6e.js.map"
+    "main.dcbdbe26.js.map": "/Door2Door.io/static/js/main.dcbdbe26.js.map"
   },
   "entrypoints": [
     "static/css/main.6d932737.css",
-    "static/js/main.6032ba6e.js"
+    "static/js/main.dcbdbe26.js"
   ]
 }
