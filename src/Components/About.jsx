@@ -18,7 +18,7 @@ const About = () => {
 
 
 
-<h1 className="text-3xl font-bold pt-8 lg:pt-0">CITY</h1>
+<h1 className="text-3xl font-bold pt-8 lg:pt-0">Door2Door</h1>
 
 			<div className="mx-auto lg:mx-0 w-4/5 pt-3 border-b-2 border-red-500 opacity-25"></div>
 
